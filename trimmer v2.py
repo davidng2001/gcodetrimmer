@@ -1,6 +1,6 @@
-dremel_layers = [16,17,18,19,32,33,34,35]
-file_location = "D:\D3_20% solid in cylinder.gcode"
-section = "skin"
+dremel_layers = []
+file_location = ""
+section = ""
 
 section_type = section.upper()
 #layer number in gcode
